@@ -1,0 +1,6 @@
+No of processes entering the system is 140
+No of process which executed succesfully 94
+No of process which have missed their deadlines 46
+Process P1 has an average waiting time = 29
+Process P2 has an average waiting time = 25.375
+Process P3 has an average waiting time = 23.9
